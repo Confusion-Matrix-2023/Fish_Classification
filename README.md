@@ -1,6 +1,8 @@
 # Fish_Classification
 Repo to store all the implemented models using different datasets for fish classification
 
+### [Notebook](https://www.kaggle.com/atharvaparikh/fish-identification)
+
 ## Datset Used
 https://www.kaggle.com/crowww/a-large-scale-fish-dataset
 
